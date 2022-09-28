@@ -57,11 +57,12 @@ doc = analyse_text(text, nlp, masked_components, out=AnalyseOut.DOC)  # obiekt S
 
 <details>
 <summary><b>Poprzednie wersje</b></summary>
+</details>
 
 ## Implementacja
 Szczegółowe informacje na temat biblioteki umieszczone są w dokumentacji.
 
-</details>
+
 
 
 ## Kontakt
