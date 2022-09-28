@@ -1,0 +1,18 @@
+include priv_masker/data/address/streets.csv
+include priv_masker/data/address/address.csv
+include priv_masker/data/address/docs/places.spacy
+include priv_masker/data/address/docs/streets.spacy
+
+include priv_masker/data/names/female_first_name.csv
+include priv_masker/data/names/female_second_name.csv
+include priv_masker/data/names/male_first_name.csv
+include priv_masker/data/names/male_second_name.csv
+include priv_masker/data/names/female_last_name.csv
+include priv_masker/data/names/male_last_name.csv
+
+include priv_masker/data/names/docs/names.spacy
+include priv_masker/data/names/docs/last_names.spacy
+
+include priv_masker/data/obvious_phrases.csv
+include priv_masker/data/stop_words.txt
+include priv_masker/data/abbrs.csv

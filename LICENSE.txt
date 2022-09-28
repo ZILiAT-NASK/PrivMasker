@@ -1,0 +1,13 @@
+PrivMasker is licensed under the following license:
+
+COPYRIGHT <2022> <NASK-PIB>
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software for scientific purposes and private usage only, including without limitation the rights to use, copy, modify, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+1)	the above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software;
+2)	no commercial use of this Software is permitted;
+3)	the Software shall not be used for harmful or illegal purposes (e.g., creating disinformation texts, privacy violations, etc.).
+Limitations and Disclaimers.
+UNDER NO CIRCUMSTANCES YOU ARE PERMITTED TO COMMERCIALLY: MERGE, PUBLISH, DISTRIBUTE, SUBLICENSE, AND/OR SELL COPIES OF THIS SOFTWARE, AND TO PERMIT PERSONS TO DO SO.
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THIS SOFTWARE.
+NO TRADEMARK OR PATENT RIGHTS HELD BY THE COPYRIGHT HOLDER ARE WAIVED, ABANDONED, SURRENDERED, LICENSED OR OTHERWISE AFFECTED BY THIS DOCUMENT.
+THE COPYRIGHT HOLDER DISCLAIMS RESPONSIBILITY FOR CLEARING RIGHTS OF OTHER PERSONS THAT MAY APPLY TO THE SOFTWARE OR ANY USE THEREOF, INCLUDING WITHOUT LIMITATION ANY PERSON'S COPYRIGHT AND RELATED RIGHTS IN THE SOFTWARE.
+FURTHER, THE COPYRIGHT HOLDER DISCLAIMS RESPONSIBILITY FOR OBTAINING ANY NECESSARY CONSENTS, PERMISSIONS OR OTHER RIGHTS REQUIRED FOR ANY USE OF THE SOFTWARE.
