@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5b9b4510-1df7-4464-9a65-277ff5c03e6d)# PrivMasker
+# PrivMasker
 
 PrivMasker, to narzędzie do anonimizacji danych osobowych i wrażliwych w dokumentach. Biblioteka umożliwia automatyczną detekcję oraz szybkie i skuteczne maskowanie danych osobowych i wrażliwychw różnego typu dokumentach. W zależności od rodzaju tekstu i preferencji użytkownika możliwy jest opcjonalny wybór maskowanych komponentów:
 - imię i nazwisko
