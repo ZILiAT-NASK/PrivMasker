@@ -67,7 +67,7 @@ Szczegółowe informacje na temat biblioteki umieszczone są w dokumentacji.
 
 ## Kontakt
 
-Zakład Inżynierii Lingwistycznej i Analizy Tekstu, Naukowa i Akademicka Sieć Komputerowa – Państwowy Instytut Badawczy\
-ziliat@nask.pl
+Zakład Inżynierii Lingwistycznej i Analizy Tekstu, Naukowa i Akademicka Sieć Komputerowa – Państwowy Instytut Badawczy
+nlp@nask.pl
 
 Copyright (C) 2022 NASK PIB
