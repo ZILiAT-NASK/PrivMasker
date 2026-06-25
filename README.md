@@ -15,11 +15,6 @@ PrivMasker, to narzędzie do anonimizacji danych osobowych i wrażliwych w dokum
 pip install priv_masker
 ```
 #### 2. Pobierz i zainstaluj model Spacy
-- [pobierz](http://mozart.ipipan.waw.pl/~rtuora/spacy/) `pl_nask 0.0.5`
-- zainstaluj:
-```cmd
-python -m pip install <PATH_TO_MODEL/pl_nask-0.0.5.tar.gz>
-```
 
 ## Użycie 
 ```python
