@@ -54,7 +54,7 @@ class AddressMasker(Masker):
         for match_id, start, end in apartment_numbers_matches:
             span = doc[start:end]
             if span[0].i in address_number_matches_ends:
-                masked_tokens = masked_tokens.append(doc[end])
+                masked_tokens.append(doc[end])
 
         # wyszukiwanie liczb, które wskazują na adres:
         # gdy liczba występuje we frazie nominalnej gdzie występuje zamaskowany token wskazujący na adres, to ta liczba
